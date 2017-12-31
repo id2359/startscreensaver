@@ -1,0 +1,5 @@
+Assembly language program to invoke the current screensaver on windows.
+
+Compile with fasm: fasm startscreensaver.asm
+
+(NB. INCLUDE environment variable should be set to location of the fam include files)
